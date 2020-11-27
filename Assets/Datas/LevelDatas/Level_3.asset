@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 988289385532652489d7b66536a42e70, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  IndexOfLevel: 3
+  ShipData: {fileID: 11400000, guid: bf42cc82163e936498a2cc6f3ec92f5e, type: 2}
+  ProbeData: {fileID: 11400000, guid: 593c493ea7bf7964db3aae6f30157ac3, type: 2}
+  ProbeCount: 5
+  PlanetsToLoad:
+  - {fileID: 11400000, guid: b36929c40ef29324caf63d5247ade236, type: 2}
+  - {fileID: 11400000, guid: 8265758581936574593c9be5251f191d, type: 2}
+  - {fileID: 11400000, guid: b9ff062989691b64197f0c340f72e6df, type: 2}
+  WormholeStart: {fileID: 11400000, guid: 2967ca3bcfe6344469b1c1253605c052, type: 2}
+  WormholeEnd: {fileID: 11400000, guid: 65636c84ad5c14f4aad2bcd6c95a8a9a, type: 2}
+  itemsToLoad: []
+  MessagesOfLevel:
+  - {fileID: 11400000, guid: 0eeb32631a55c504c87c717692a64d7d, type: 2}
+  - {fileID: 11400000, guid: 731ca1c7d2515cb4984bd0429b079270, type: 2}
+  ConstantG: 0.1

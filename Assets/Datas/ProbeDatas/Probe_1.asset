@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23874076f59358c47bb4b07e5b69dbb8, type: 3}
+  m_Name: Probe_1
+  m_EditorClassIdentifier: 
+  Name: ProbeOne
+  Sprite: {fileID: 21300000, guid: 883a31616bd39184f8e049450f0169cf, type: 3}
+  SpriteOrder: 110
+  Size: 0.5
+  Mass: 0.5
+  IsAttractor: 0
+  IsAttracted: 0
+  ThrustingPower: 0.03
+  ThrustingTime: 3
+  TrailMaterial: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  TrailLifetime: 120
+  TrailSpriteOrder: 95
